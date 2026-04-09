@@ -17,7 +17,7 @@ This project reads a text file and performs basic text analysis using Python. It
 * Basic text analysis techniques
 # 🎯 Purpose
 Built to practice file handling, string processing, and data analysis using Python.
-🔮 Future Improvements
+# 🔮 Future Improvements
 * Remove punctuation marks
 * Ignore stop words (like "the", "is", "and")
 * Add word cloud visualization
